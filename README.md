@@ -3,6 +3,14 @@
 This is a mirror of the single file cperl-mode.el from the official
 GNU emacs repository at https://git.savannah.gnu.org/cgit/emacs.git
 
+## Motivation
+
+I wanted to include an up-to-date cperl-mode.el in my local ELPA. The
+ELPA package building script uses the upstream version of cperl-mode,
+but does it by cloning the entire emacs repository and that's
+**really** slow. The update-cperl-mode.pl script in this repository
+just copies the single file from upstream to the local repo.
+
 ## Contents of this repository
 
 | File                 | Description                                     |
