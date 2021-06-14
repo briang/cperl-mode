@@ -5,12 +5,12 @@ GNU emacs repository at https://git.savannah.gnu.org/cgit/emacs.git
 
 ## Contents of this repository
 
-| File                 | Description                                   |
-|----------------------|-----------------------------------------------|
-| cperl-mode.el        | cperl-mode.el, mirrored from GNU emacs repo   |
-| LICENSE              | GPL3                                          |
-| update-cperl-mode.pl | Fetches cperl-mode.el from emacs-mirror/emacs |
-|                      |                                               |
+| File                 | Description                                     |
+|----------------------|-------------------------------------------------|
+| cperl-mode.el        | cperl-mode.el, mirrored from GNU emacs repo     |
+| LICENSE              | GPL3                                            |
+| update-cperl-mode.pl | Fetches cperl-mode.el from git.savannah.gnu.org |
+|                      |                                                 |
 
 ## update-cperl-mode.pl
 
